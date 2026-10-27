@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SecondFactor is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://secondfactor.ai
+SecondFactor provides an OTP Delivery & Verification API that enables developers to send one‑time passwords via SMS, WhatsApp, Viber, and RCS. The platform intelligently routes messages to the lowest‑cost channel, offers automatic fallback, delivery logs, template management, and a pricing calculator. It aims to reduce authentication costs and improve user experience with a single, multi‑channel API. Documentation, pricing, and support are available online, and the service is trusted by global companies for secure, fast, and affordable OTP delivery.
+
+**Areas:** Company · OTP · Authentication · Multi-Channel · Messaging
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://secondfactor.ai)
+- [Documentation](https://docs.secondfactor.ai)
+- [Getting started](https://docs.secondfactor.ai/)
+- [Pricing](https://secondfactor.ai/pricing)
+- [Sign up](https://app.secondfactor.ai/signup)
+- [Support](https://secondfactor.ai/support)
+- [Blog](https://secondfactor.ai/blog)
+- [Terms of service](https://secondfactor.ai/terms)
+- [Privacy policy](https://secondfactor.ai/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/secondfactor/](https://apis.io/providers/secondfactor/).
